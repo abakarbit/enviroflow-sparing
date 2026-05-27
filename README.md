@@ -1,6 +1,6 @@
 <div align="center">
 
-# enviroflow-sparing — Automated Data Relay Pipeline untuk SPARING KLHK
+# Automated Data Relay Pipeline untuk SPARING KLHK
 
 **Sistem pengiriman data pemantauan kualitas air limbah industri secara otomatis ke server SPARING Kementerian Lingkungan Hidup dan Kehutanan (KLHK) Republik Indonesia.**
 
